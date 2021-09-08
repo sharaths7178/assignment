@@ -1,0 +1,24 @@
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.cardHandler {
+    width:"50vw";
+    height:"50vh";
+}
+.loginButton {
+    margin: 20px;
+    border: 2px solid;
+    background: cornflowerblue;
+}
+.textField{
+    margin :40px;
+}
+.root{
+    background-color: red;
+    display: grid;
+}
+.signbutton {
+    border-radius: 0;
+    color: "black";
+  }
